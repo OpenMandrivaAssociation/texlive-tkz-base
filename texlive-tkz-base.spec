@@ -61,3 +61,16 @@ of drawings with TikZ.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.16-2
++ Revision: 756926
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.16-1
++ Revision: 719760
+- texlive-tkz-base
+- texlive-tkz-base
+- texlive-tkz-base
+
