@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.16
 Name:		texlive-tkz-base
-Version:	1.16
-Release:	11
+Version:	1.16d
+Release:	1
 Summary:	Tools for drawing with a cartesian coordinate system
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-base
