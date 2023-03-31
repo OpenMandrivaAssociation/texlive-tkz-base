@@ -1,6 +1,6 @@
 Name:		texlive-tkz-base
 Version:	63906
-Release:	1
+Release:	2
 Summary:	Tools for drawing with a cartesian coordinate system
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-base
