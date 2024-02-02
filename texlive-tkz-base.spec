@@ -1,5 +1,5 @@
 Name:		texlive-tkz-base
-Version:	66115
+Version:	69460
 Release:	1
 Summary:	Tools for drawing with a cartesian coordinate system
 Group:		Publishing
