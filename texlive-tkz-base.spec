@@ -3,7 +3,7 @@ Version:	69460
 Release:	1
 Summary:	Tools for drawing with a cartesian coordinate system
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-base
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-base
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-base.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-base.doc.r%{version}.tar.xz
